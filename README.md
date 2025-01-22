@@ -1,5 +1,3 @@
-# Backend-NumberGuessingGame
-https://roadmap.sh/projects/number-guessing-game
 # Number Guessing Game
 
 Sample solution for the [Number Guessing Game challenge](https://roadmap.sh/projects/number-guessing-game) from [roadmap.sh](https://roadmap.sh).
